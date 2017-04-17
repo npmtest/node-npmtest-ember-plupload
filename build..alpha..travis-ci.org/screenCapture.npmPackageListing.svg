@@ -1,0 +1,35 @@
+<svg height="510" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="510" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">  0.  2017-04-17 23:13:47 +0000    61146 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-17 23:13:47 +0000     9250 bytes  CHANGELOG.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-17 23:13:47 +0000     2392 bytes  CONDUCT.md</tspan>
+<tspan x="10" y="74">  3.  2017-04-17 23:13:47 +0000     1066 bytes  LICENSE.md</tspan>
+<tspan x="10" y="90">  4.  2017-04-17 23:13:47 +0000    14543 bytes  README.md</tspan>
+<tspan x="10" y="106">  5.  2017-04-17 23:13:47 +0000     7197 bytes  addon/components/pl-uploader.js</tspan>
+<tspan x="10" y="122">  6.  2017-04-17 23:13:47 +0000      424 bytes  addon/computed/w.js</tspan>
+<tspan x="10" y="138">  7.  2017-04-17 23:13:47 +0000     1829 bytes  addon/services/uploader.js</tspan>
+<tspan x="10" y="154">  8.  2017-04-17 23:13:47 +0000     4261 bytes  addon/system/file.js</tspan>
+<tspan x="10" y="170">  9.  2017-04-17 23:13:47 +0000      328 bytes  addon/system/flatten.js</tspan>
+<tspan x="10" y="186"> 10.  2017-04-17 23:13:47 +0000      556 bytes  addon/system/make-file-filter.js</tspan>
+<tspan x="10" y="202"> 11.  2017-04-17 23:13:47 +0000      183 bytes  addon/system/sum-by.js</tspan>
+<tspan x="10" y="218"> 12.  2017-04-17 23:13:47 +0000      309 bytes  addon/system/trim.js</tspan>
+<tspan x="10" y="234"> 13.  2017-04-17 23:13:47 +0000     8372 bytes  addon/system/upload-queue.js</tspan>
+<tspan x="10" y="250"> 14.  2017-04-17 23:13:47 +0000     2564 bytes  addon/test-helper.js</tspan>
+<tspan x="10" y="266"> 15.  2017-04-17 23:13:47 +0000      199 bytes  app/components/pl-uploader.js</tspan>
+<tspan x="10" y="282"> 16.  2017-04-17 23:13:47 +0000      978 bytes  app/initializers/pl-uploader-manager.js</tspan>
+<tspan x="10" y="298"> 17.  2017-04-17 23:13:47 +0000       83 bytes  app/services/uploader.js</tspan>
+<tspan x="10" y="314"> 18.  2017-04-17 23:13:47 +0000       25 bytes  app/templates/components/pl-uploader.hbs</tspan>
+<tspan x="10" y="330"> 19.  2017-04-17 23:13:47 +0000      274 bytes  blueprints/ember-plupload/index.js</tspan>
+<tspan x="10" y="346"> 20.  2017-04-17 23:13:47 +0000       80 bytes  blueprints/file-filter/files/app/file-filters/__\</tspan>
+<tspan x="10" y="362">name__.js</tspan>
+<tspan x="10" y="378"> 21.  2017-04-17 23:13:47 +0000       67 bytes  blueprints/file-filter/index.js</tspan>
+<tspan x="10" y="394"> 22.  2017-04-17 23:13:47 +0000      946 bytes  config/ember-try.js</tspan>
+<tspan x="10" y="410"> 23.  2017-04-17 23:13:47 +0000      111 bytes  config/environment.js</tspan>
+<tspan x="10" y="426"> 24.  2017-04-17 23:13:47 +0000      571 bytes  config/release.js</tspan>
+<tspan x="10" y="442"> 25.  2017-04-17 23:13:47 +0000     1067 bytes  index.js</tspan>
+<tspan x="10" y="458"> 26.  2017-04-17 23:13:47 +0000     3195 bytes  package.json</tspan>
+<tspan x="10" y="474"> 27.  2017-04-17 23:13:47 +0000      237 bytes  testem.js</tspan>
+<tspan x="10" y="490"> 28.  2017-04-17 23:13:47 +0000       39 bytes  vendor/styles/ember-plupload.css</tspan>
+</text>
+</svg>
