@@ -1,4 +1,7 @@
-# test coverage for  [ember-plupload (v1.13.19)](https://github.com/tim-evans/ember-plupload#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-ember-plupload.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-ember-plupload) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-ember-plupload.svg)](https://travis-ci.org/npmtest/node-npmtest-ember-plupload)
+# npmtest-ember-plupload
+
+#### basic test coverage for  [ember-plupload (v1.13.19)](https://github.com/tim-evans/ember-plupload#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-ember-plupload.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-ember-plupload) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-ember-plupload.svg)](https://travis-ci.org/npmtest/node-npmtest-ember-plupload)
+
 #### An uploader component for Ember apps
 
 [![NPM](https://nodei.co/npm/ember-plupload.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/ember-plupload)
@@ -100,7 +103,8 @@
         "start": "ember server",
         "test": "ember try:testall"
     },
-    "version": "1.13.19"
+    "version": "1.13.19",
+    "bin": {}
 }
 ```
 
